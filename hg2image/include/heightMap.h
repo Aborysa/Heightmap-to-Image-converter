@@ -6,7 +6,7 @@
 #define FILE_REV 10
 
 #include <string>
-
+//Use typedef?
 struct zone{
     unsigned short * heightData = nullptr;
     virtual ~zone(){
